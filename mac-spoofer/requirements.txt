@@ -1,0 +1,12 @@
+# No external dependencies required - uses only Python standard library
+# Compatible with Python 3.6+
+
+# This project uses only:
+# - subprocess (process management)
+# - re (regex)
+# - sys (system utilities)
+# - argparse (CLI argument parsing)
+# - ctypes (Windows API)
+# - os (operating system utilities)
+
+# All are part of the Python standard library
