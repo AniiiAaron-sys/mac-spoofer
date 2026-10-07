@@ -64,7 +64,7 @@ AVAILABLE NETWORK ADAPTERS Ethernet Current MAC Address: 00-1A-2B-3C-4D-5E Wi-Fi
 
 After Changing the MAC
 
-Sometimes it works instantly… sometimes not.
+it should work instantly
 
 If nothing changes:
 
